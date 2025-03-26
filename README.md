@@ -1,5 +1,5 @@
-<h1>👋 Salut ! Moi c’est Jeevan - Développeur iOS.</h1>
-<p>Développeur iOS curieux et créatif, toujours en quête de nouvelles expériences mobiles. ✨</p>
+<h1>👋 Salut ! Moi c’est Jeevan</h1>
+**`Développeur iOS curieux et créatif ✨`**
 <h2>🚀 Langages et outils que j'utilise</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
