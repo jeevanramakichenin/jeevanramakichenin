@@ -23,9 +23,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
 </p>
-🎨 SwiftUI  
-📲 UIKit  
-💽 Core Data  
+
+- 🎨 SwiftUI  
+- 📲 UIKit  
+- 💽 Core Data
+
 <h2>⚡️ Où me trouver</h2>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/jeevan-ramakichenin" style="display: inline-block;">
