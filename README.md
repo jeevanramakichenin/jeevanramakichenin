@@ -2,7 +2,11 @@
 
 **`Développeur iOS curieux et créatif ✨`**
 
-<h2>🚀 Langages et outils que j'utilise</h2>
+<h2>💡 À propos</h2>
+- 💡 Je suis animé par la créativité et la recherche de solutions élégantes
+- 🎨 J'adore repousser les limites avec SwiftUI et créer des interfaces modernes
+- 📚 Quand je ne suis pas plongé dans le code, je continue d'apprendre en lisant des livres ou en explorant des ressources en ligne pour toujours m'améliorer
+<h2>🚀 Langages et outils</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
