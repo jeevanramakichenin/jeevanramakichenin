@@ -4,7 +4,7 @@
 
 <h2>💡 À propos</h2>
 
-- 💡 Je suis animé par la créativité et la recherche de solutions élégantes  
+- ✨ Je suis animé par la créativité et la recherche de solutions élégantes  
 - 🎨 J'adore repousser les limites avec SwiftUI et créer des interfaces modernes  
 - 📚 Quand je ne code pas, j'apprends en lisant des livres ou en explorant le web.
 
