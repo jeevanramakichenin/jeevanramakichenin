@@ -6,7 +6,7 @@
 
 - 💡 Je suis animé par la créativité et la recherche de solutions élégantes  
 - 🎨 J'adore repousser les limites avec SwiftUI et créer des interfaces modernes  
-- 📚 Quand je ne suis pas plongé dans le code, je continue d'apprendre en lisant des livres ou en explorant des ressources en ligne pour toujours m'améliorer  
+- 📚 Quand je ne code pas, j'apprends en lisant des livres ou en explorant le web.
 
 <h2>🚀 Langages et outils</h2>
 <p>
@@ -24,9 +24,9 @@
   </a>
 </p>
 
-- 🎨 SwiftUI  
-- 📲 UIKit  
-- 💽 Core Data  
+🎨 SwiftUI  
+📲 UIKit  
+💽 Core Data  
 
 <h2>⚡️ Où me trouver</h2>
 <p>
