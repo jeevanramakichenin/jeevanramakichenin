@@ -1,8 +1,6 @@
 <img src="./images/banner-mk3.jpg" alt="Banner" />
 <h1>👋 Salut ! Moi c’est Jeevan</h1>
 
-**`Développeur iOS curieux et créatif ✨`**
-
 <h2>💡 À propos</h2>
 
 - ✨ Je suis animé par la créativité et la recherche de solutions élégantes  
